@@ -12,22 +12,22 @@
 ## **👨‍💻 About Me :** <br>
 ### 🔭 I’m currently working on  <br>
 - Building scalable AI systems using LLMs and multi-agent architectures  <br>
-- Developing real-world NLP applications with explainable AI (XAI)  <br><br>
+- Developing real-world NLP applications with explainable AI (XAI)  <br>
 ### 👯 I’m looking to collaborate on  <br>
 - Industry-level AI/ML and Generative AI projects  <br>
 - Open-source AI tools and frameworks  <br>
-- Data Analytics and SQL-driven applications <br><br>
+- Data Analytics and SQL-driven applications <br>
 ### 🤝 I’m looking for help with  <br>
 - Production deployment of AI systems (MLOps)  <br>
 - Efficient retrieval systems (RAG, vector search) <br>
 - Advanced SQL optimization & data pipeline design<br>
-- Scaling LLM applications (LangChain, RAG, Agents)   <br><br>
+- Scaling LLM applications (LangChain, RAG, Agents)   <br>
 ### 🌱 I’m currently learning  <br>
 - Advanced LLM architectures, Agentic AI and also Data Structures<br>
 - Distributed systems for AI applications  <br>
 - Data Analytics & SQL based real world projects<br>
 - Generative AI & Advanced NLP (Transformers, LLMs)  <br>
-- RAG & Vector Databases (FAISS) <br><br>
+- RAG & Vector Databases (FAISS) <br>
 ### 💬 Ask me about  <br>
 - Python, SQL, Java<br>
 - Machine Learning, NLP & Generative AI  <br>
