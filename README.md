@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Hi+there+👋,+I'm+Shashank+Suthrave;Welcome+to+My+GitHub+Profile!;AI/ML+Engineer;Building+Real-World+Projects">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Hi+there+👋,+I'm+Shashank+Suthrave;Welcome+to+My+GitHub+Profile!;Aspiring+AI/ML+Engineer;Building+Real-World+Projects">
 </p>
 
 <!-- <h1 align="center">Hi there 👋, I'm Shashank Suthrave</h1> -->
