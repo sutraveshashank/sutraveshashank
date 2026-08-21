@@ -1,12 +1,8 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Hi+there+👋,+I'm+Shashank+Suthrave;Welcome+to+My+GitHub+Profile!;Aspiring+AI/ML+Engineer;Building+Real-World+Projects">
-</p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Hi+there+👋,+I'm+Shashank+Suthrave;Welcome+to+My+GitHub+Profile!;Aspiring+AI/ML+Engineer;Building+Real-World+Projects"> </p>
 
-<!-- <h1 align="center">Hi there 👋, I'm Shashank Suthrave</h1> -->
+<h3 align="center"> 👨‍💻 Aspiring Developer | 🤖 AI/ML Explorer | 📊 Data Analytics Enthusiast | 🌱 Open Source Learner </h3>
 
-<h3 align="center">
-👨‍💻 Aspiring Developer | 🤖 AI/ML Explorer | 📊 Data Analytics Enthusiast | 🌱 Open Source Learner
-</h3>
+<p align="center"> <a href="https://shashanksuthrave.vercel.app/"> 🌐 <b>Visit My Portfolio</b> </a> </p>
 
 ---
 ## **👨‍💻 About Me :** <br>
